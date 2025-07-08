@@ -10,14 +10,17 @@ Unity 개발과 C# 프로그래밍을 꾸준히 배우며
 -  **AR 동화책 앱** (Unity + ARCore)  
   - 이미지 인식, 음성 인식(STT), 터치 인터랙션, 애니메이션 동기화 기능 구현
   - (https://github.com/Kimwonbeom0102/AR_Project)
+
     
 -  **Unity 3D 러닝 게임**  
   - 맵 설계, 장애물 배치, 부스터존, 리스폰 등 게임 구성 요소 구현
   - (https://github.com/Kimwonbeom0102/Runguys)
+    
 
 -  **콘솔 기반 미니 프로젝트 모음**  
   - 스톱워치, Stack 자료구조, 게시판 UI 등 C# 기초 문법과 OOP 개념 실습  
   -  [mini-projects GitHub](https://github.com/Kimwonbeom0102/mini-projects)
+    
 
 -  **웹페이지 제작**  
   - HTML/CSS로 웹 UI 구현  
