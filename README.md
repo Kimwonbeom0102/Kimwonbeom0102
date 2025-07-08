@@ -22,7 +22,7 @@ Unity 개발과 C# 프로그래밍을 꾸준히 배우며
 - **웹페이지**  
   - HTML/CSS로 웹 UI 구현  
   - 댓글(Disqus), 채팅(Tawk.to), 방문자 분석(Google Analytics) 기능 연동  
-  - [My First Web Site](https://kimwonbeom0102.github.io/my-first-web-site/1.html)
+  - [Web Site](https://kimwonbeom0102.github.io/my-first-web-site/1.html)
 
 ---
 
