@@ -1,3 +1,11 @@
+<h1 align="center">Hi 👋, I'm Kim Wonbeom</h1>
+<p align="center">Unity와 C#을 중심으로 직접 만들며 배우는 예비 개발자</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Kim%20Wonbeom&fontSize=40&fontAlignY=35&desc=Unity%20%26%20CSharp%20Learner&descAlignY=60&animation=fadeIn" />
+</p>
+
+---
 
 ## 🧪 Projects 🧪
 
