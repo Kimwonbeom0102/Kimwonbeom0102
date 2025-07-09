@@ -32,7 +32,6 @@
   2025.07 ~ 진행 중  
   - HTML/CSS 기반 웹페이지 제작, 댓글·채팅·분석 기능 연동  
   - MySQL 기초 문법과 데이터베이스 개념 학습 중  
-  👉 [My First Web Site](https://kimwonbeom0102.github.io/my-first-web-site/1.html)
 
 ---
 
