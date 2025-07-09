@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Kim Wonbeom</h1>
-<p align="center">Unity와 C#을 중심으로 직접 만들며 배우는 예비 개발자</p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Kim%20Wonbeom&fontSize=40&fontAlignY=35&desc=Unity%20%26%20CSharp%20Learner&descAlignY=60&animation=fadeIn" />
-</p>
+#  Kim Wonbeom / 김원범
+
+Unity와 C#을 중심으로 직접 만들며 배우는 예비 개발자입니다.
+AR, 게임, 웹까지 다양한 분야에서 실습하며 개발자로 성장하고 있습니다.
 
 ---
 
