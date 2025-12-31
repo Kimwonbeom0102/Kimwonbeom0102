@@ -10,7 +10,8 @@ AR, 게임, 웹까지 다양한 분야에서 실습하며 개발자로 성장하
 
 | 프로젝트명 | 설명 | 링크 |
 |------------|------|------|
-| 🧚‍♂️ AR 동화책 앱 | Unity + ARCore 기반 / 이미지 인식, 음성인식, 애니메이션 동기화 | [GitHub](https://github.com/Kimwonbeom0102/AR_Project) |
+| 🧚‍♂️ 자동화 시뮬레이션 | Unity |
+| 🧚‍♂️ AR 동화책 앱 | Unity + ARCore / 이미지 인식, 음성인식, 애니메이션 동기화 | [GitHub](https://github.com/Kimwonbeom0102/AR_Project) |
 | 🕹 Unity 3D 러닝 게임 | 맵 설계, 장애물, 부스터존, 리스폰 기능 등 구현 | [GitHub](https://github.com/Kimwonbeom0102/Runguys) |
 | ⚙️ 콘솔 미니 프로젝트 | 스톱워치, Stack 구현, 게시판 등 C# 실습 | [GitHub](https://github.com/Kimwonbeom0102/mini-projects) |
 | 🌐 개인 웹페이지 | 댓글, 채팅, 방문자 분석 기능 포함한 Web UI 구현 | [Live Site](https://kimwonbeom0102.github.io/my-first-web-site/1.html) |
@@ -51,7 +52,7 @@ AR, 게임, 웹까지 다양한 분야에서 실습하며 개발자로 성장하
 - **C# 중급 문법 학습 중**  
   (인터페이스, 캡슐화 등 OOP 개념 심화)
 
-- **Unity 기반 2D 탑뷰 게임 제작중**  
+- **Unity DT 공정 자동화 시뮬레이션**  
   개발 중
 ---
 
