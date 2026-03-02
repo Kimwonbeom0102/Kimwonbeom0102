@@ -38,7 +38,10 @@ https://github.com/Kimwonbeom0102/digital-twin-automation-sim
 > Unity 단일 실행 구조에서 서버-DB 기반 상태 제어 구조로 확장하여  
 > 단순 시각화가 아닌 데이터 중심 공정 제어 시스템으로 재설계했습니다.
 
-- Ongoing improvements: Version control refinement, XR maintenance, scenario expansion
+Ongoing improvements
+- Plant–Zone–Server 상위 계층 구조 재정립
+- Fault 및 공정 시나리오 확장
+- XR 모드 안정화 및 유지보수
 
 ---
 
