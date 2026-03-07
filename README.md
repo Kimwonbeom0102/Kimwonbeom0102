@@ -57,9 +57,8 @@ https://github.com/Kimwonbeom0102/AR_Project
 
 ---
 
-### Unity 3D Running Game  
-- 맵 설계 및 장애물/부스터존 시스템 구현
-- 리스폰 및 충돌 처리 로직 설계
+### Unity Networking System
+- 
 
 GitHub:  
 https://github.com/Kimwonbeom0102/Runguys
