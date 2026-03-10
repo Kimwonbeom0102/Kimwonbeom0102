@@ -45,10 +45,10 @@ Ongoing improvements
 
 ---
 
-## Other Projects
+## Additional Projects
 
 ### AR Interactive Storybook  
-Unity + ARCore 기반 이미지 트래킹 및 음성 인식(STT) 인터랙션 구현  
+- ARCore 기반 이미지 트래킹 및 음성 인식(STT) 인터랙션 구현  
 - 입력 조건 기반 상태 전이 설계
 - 콘텐츠 흐름 제어 로직 분리 구조
 
@@ -58,7 +58,10 @@ https://github.com/Kimwonbeom0102/AR_Project
 ---
 
 ### Unity Networking System
-- 
+- Photon PUN 기반 멀티플레이어 네트워크 시스템 구현
+- Player 생성 및 Network Object 동기화 처리
+- Room 기반 멀티플레이어 매칭 및 게임 입장 로직 구현
+- Network Sync를 활용한 Player 상태 동기화 처리
 
 GitHub:  
 https://github.com/Kimwonbeom0102/Runguys
