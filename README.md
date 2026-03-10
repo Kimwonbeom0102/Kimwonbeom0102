@@ -2,13 +2,11 @@
 
 ## About Me
 
-C# 기반 **State-Driven Logic**을 중심으로 공정 상태 전이와 예외 처리 구조를 설계하고,  
-자동화 생산 라인 경험을 바탕으로 제조 공정 흐름을 **State 중심으로 모델링**하고 있습니다.
+C# 기반 **State-Driven Logic**으로 공정 상태 전이와 예외 처리 구조를 설계하고  
+자동화 생산 라인 경험을 바탕으로 **Process Simulation System**을 개발하고 있습니다.
 
-Process Simulation System을 구현한 뒤 **ASP.NET Core + SQLite 기반 Client–Server 구조로 확장하여**  
-State Synchronization과 데이터 기반 공정 제어 구조를 구축했습니다.
-
-공정 상태와 시스템 동작 흐름은 **Unity 기반 디지털 트윈 시뮬레이션 환경으로 시각화**하고 있습니다.
+ASP.NET Core 기반 **Client-Server 구조와 State Synchronization**을 구현하고  
+Unity를 활용해 **디지털 트윈 형태의 공정 시뮬레이션을 시각화**하고 있습니다.
 
 ---
 
