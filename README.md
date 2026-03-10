@@ -87,6 +87,7 @@ https://github.com/Kimwonbeom0102/mini-projects
 ## Technical Focus
 
 ### Language & Backend
+- Visual Studio 2022
 - C#
 - .NET 8
 - ASP.NET Core Web API
