@@ -120,7 +120,7 @@ https://github.com/Kimwonbeom0102/AR_Project
 - Network Sync를 활용한 Player 상태 동기화 처리
 
 GitHub:  
-https://github.com/Kimwonbeom0102/Networking_System
+https://github.com/Kimwonbeom0102/unity-networking-photon
 
 ---
 
