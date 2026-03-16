@@ -112,7 +112,7 @@ https://github.com/Kimwonbeom0102/mini-projects
 
 ## Technical Focus
 
-### Language & Tool
+### Language & Engine
 - Visual Studio 2022
 - C# / .NET 8
 
