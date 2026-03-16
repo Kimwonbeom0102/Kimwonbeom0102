@@ -42,7 +42,7 @@ https://github.com/Kimwonbeom0102/digital-twin-automation-sim
 - Visualization Layer 분리 구조 설계 (Desktop / XR)
 
 기존 단일 실행 시뮬레이션 구조에서 서버–DB 기반 상태 제어 구조로 확장하여
-넘어 데이터 중심 공정 제어 시스템으로 재설계
+데이터 중심 공정 제어 시스템으로 재설계
 
 Ongoing improvements
 - Plant–Zone–Server 상위 계층 구조 재정립
