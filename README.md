@@ -51,8 +51,6 @@ Ongoing improvements
 
 ---
 
-## Additional Projects
-
 ## Application Projects
 
 ### Inventory Manager (WinForms)
@@ -60,7 +58,7 @@ Ongoing improvements
 재고 관리 기능을 구현한 C# WinForms 기반 관리 프로그램
 
 GitHub:  
-https://github.com/Kimwonbeom0102/InventoryManager
+https://github.com/Kimwonbeom0102/Manager_Programs/tree/main/InventoryManager
 
 #### Features
 
@@ -103,6 +101,8 @@ https://github.com/Kimwonbeom0102/MembershipManager
 
 ---
 
+## Additional Projects
+
 ### AR Interactive Storybook  
 - ARCore 기반 이미지 트래킹 및 음성 인식(STT) 인터랙션 구현  
 - 입력 조건 기반 상태 전이 설계
@@ -120,7 +120,7 @@ https://github.com/Kimwonbeom0102/AR_Project
 - Network Sync를 활용한 Player 상태 동기화 처리
 
 GitHub:  
-https://github.com/Kimwonbeom0102/Runguys
+https://github.com/Kimwonbeom0102/Networking_System
 
 ---
 
