@@ -53,6 +53,56 @@ Ongoing improvements
 
 ## Additional Projects
 
+## Application Projects
+
+### Inventory Manager (WinForms)
+
+재고 관리 기능을 구현한 C# WinForms 기반 관리 프로그램
+
+GitHub:  
+https://github.com/Kimwonbeom0102/InventoryManager
+
+#### Features
+
+- 제품 등록 / 수정 / 삭제 기능
+- 재고 수량 관리 시스템
+- 재고 부족 제품 조회 기능
+- 제품 이름 / 수량 기준 정렬
+- 키워드 기반 제품 검색 기능
+
+#### Tech
+
+- C#
+- .NET
+- WinForms
+- JSON
+
+---
+
+### Membership Manager (WinForms)
+
+C# WinForms 기반 회원 관리 시스템
+
+GitHub:  
+https://github.com/Kimwonbeom0102/MembershipManager
+
+#### Features
+
+- 회원 등록 / 수정 / 삭제 기능
+- DataGridView 기반 회원 목록 관리 UI
+- 로그인 기능 구현
+- SHA-256 기반 비밀번호 해시 처리
+- JSON 파일 기반 데이터 저장 구조
+
+#### Tech
+
+- C#
+- .NET
+- WinForms
+- JSON
+
+---
+
 ### AR Interactive Storybook  
 - ARCore 기반 이미지 트래킹 및 음성 인식(STT) 인터랙션 구현  
 - 입력 조건 기반 상태 전이 설계
