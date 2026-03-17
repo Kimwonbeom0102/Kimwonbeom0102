@@ -31,7 +31,7 @@ https://github.com/Kimwonbeom0102/digital-twin-automation-sim
 - Plant / Zone / Robot 단위 State-driven Architecture 설계
 - SetState 단일 진입 구조로 상태 전이 책임 중앙화
 - Event 기반 공정 흐름 제어 (Spawn → Buffer → PickUp → Robot → Test)
-- Fault / Stop / Resume 복구 구조 구현
+- Fault / Stop / Execute 복구 구조 구현
 - IsTriggered 기반 Fault 재트리거 방지 설계
 - Reset API를 통한 서버 주도 상태 복구 구조
 
