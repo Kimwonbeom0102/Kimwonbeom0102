@@ -2,7 +2,7 @@
 
 ## About Me
 
-C# 기반 **State-Driven Logic**으로 공정 상태 전이와 예외 처리 구조를 설계하고  
+C# 기반 **State-Driven Logic**으로 상태 전이와 예외 처리 구조를 설계하고  
 자동화 생산 라인 경험을 바탕으로 **Process Simulation System**을 개발하고 있습니다.
 
 공정 시뮬레이션 프로젝트에서  **ASP.NET Core + SQLite 서버 연동 구조**를 구현하여  
