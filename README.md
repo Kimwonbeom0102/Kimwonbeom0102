@@ -160,3 +160,4 @@ https://github.com/Kimwonbeom0102/mini-projects
 - C# / Simulation Development Bootcamp (Unity BootCamp)
 - C# Intermediate Studies
 - Automation Production Line Experience
+- RFID 하드웨어·소프트웨어·미들웨어 실무 경험 (재직 중)
