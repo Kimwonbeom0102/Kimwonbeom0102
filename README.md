@@ -16,7 +16,7 @@ RFID 기반 물류 자동화 솔루션을 제공하는 기업에서
 ### Domain
 - RFID Reader / Printer 등 하드웨어 장비 연동
 - RFID Tag 프로그래밍 및 데이터 처리
-- 웹 기반 물류 자동화 프로세스
+- 물류 자동화 프로세스
 ### Role
 - **Software**: UI/기능 개발, 서버(API) 및 DB 설계·구현
 - **Middleware**: 리더기·프린터 등 하드웨어 장비와 소프트웨어 간 통신 구조 설계
