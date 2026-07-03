@@ -10,8 +10,6 @@ C# 기반 **State-Driven Logic**으로 상태 전이와 예외 처리 구조를 
 
 ---
 
-## Professional Experience (Current)
- 
 RFID 기반 물류 자동화 솔루션을 제공하는 기업에서
 **하드웨어–소프트웨어–미들웨어 전 영역을 아우르는 RFID 시스템 개발**을 담당하며 커리어를 쌓고 있습니다.
  
@@ -32,6 +30,21 @@ RFID 기반 물류 자동화 솔루션을 제공하는 기업에서
 ---
 
 ## Core Project
+
+### RFID Document Tagging & Retrieval System (Web–DB–Printer Bridge)
+Flask 기반 웹 서버와 MySQL DB, RFID 프린터/리더기를 연동하여
+문서 발행 시 RFID 태그에 데이터를 인코딩하고, 리딩 시 해당 문서 정보를 자동 조회하는 시스템
+
+#### Architecture Overview
+- **Web**: Python(Flask) 기반, 문서 조회 및 발행 요청 처리
+- **Bridge Agent**: C#(.NET, VS 2022) 기반, 상시 구동되는 로컬 프린터 중계 프로그램 (직접 설계·개발)
+- **Reader Program**: C# 기반, RFID 리더기 DLL(`Inventory32` 등)을 통한 태그 리딩 처리
+- **DB**: MySQL, 문서 데이터 및 Tag 값 관리
+RFID 프린터가 **USB 연결 시 웹에서 직접 발행 명령을 전달할 수 없는 구조적 제약**이 있었음
+(RS232 포트는 웹-장비 간 직접 제어가 가능하지만, USB는 드라이버/권한 구조상 불가능)
+→ 이를 해결하기 위해 웹과 프린터 사이에서 명령을 중계하는 **Bridge Agent를 C#으로 직접 개발**
+
+---
 
 ### Server-Driven Digital Twin Automation Simulation (In Progress)
 
