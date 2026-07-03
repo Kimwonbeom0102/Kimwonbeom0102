@@ -40,7 +40,7 @@ Flask 기반 웹 서버와 MySQL DB, RFID 프린터/리더기를 연동하여
 - **Bridge Agent**: C#(.NET, VS 2022) 기반, 상시 구동되는 로컬 프린터 중계 프로그램 (직접 설계·개발)
 - **Reader Program**: C# 기반, RFID 리더기 DLL(`Inventory32` 등)을 통한 태그 리딩 처리
 - **DB**: MySQL, 문서 데이터 및 Tag 값 관리
-- 
+  
 RFID 프린터가 **USB 연결 시 웹에서 직접 발행 명령을 전달할 수 없는 구조적 제약**이 있었음
 (RS232 포트는 웹-장비 간 직접 제어가 가능하지만, USB는 드라이버/권한 구조상 불가능)
 → 이를 해결하기 위해 웹과 프린터 사이에서 명령을 중계하는 **Bridge Agent를 C#으로 직접 개발**
@@ -162,7 +162,9 @@ https://github.com/Kimwonbeom0102/mini-projects
 - ASP.NET Core Web API
 - Entity Framework Core
 - SQLite
-
+- Python (Flask)
+- MySQL
+  
 ### Architecture & Simulation
 - State-driven Architecture  
 - Event-driven System  
@@ -170,6 +172,12 @@ https://github.com/Kimwonbeom0102/mini-projects
 - REST API
 - Fault & Recovery Flow Design
 - Process Simulation
+
+### Hardware & Middleware
+- RFID Reader/Printer DLL 연동 (Inventory 함수 등 SDK 기반 통합)
+- Bridge Agent(C#) 직접 개발 — 웹-장비 간 USB 통신 제약 해결
+- Device-to-Server 통신 구조 설계
+- 하드웨어-소프트웨어 트러블슈팅 (통신 오류, 인식 지연, 포트 방식 제약 등)
 
 ### Visualization 
 - Unity / XR
