@@ -10,6 +10,27 @@ C# 기반 **State-Driven Logic**으로 상태 전이와 예외 처리 구조를 
 
 ---
 
+## Professional Experience (Current)
+ 
+RFID 기반 물류 자동화 솔루션을 제공하는 기업에서
+**하드웨어–소프트웨어–미들웨어 전 영역을 아우르는 RFID 시스템 개발**을 담당하며 커리어를 쌓고 있습니다.
+ 
+### Domain
+- RFID Reader / Printer 등 하드웨어 장비 연동
+- RFID Tag 프로그래밍 및 데이터 처리
+- 웹 기반 물류 자동화 프로세스
+### Role
+- **Software**: UI/기능 개발, 서버(API) 및 DB 설계·구현
+- **Middleware**: 리더기·프린터 등 하드웨어 장비와 소프트웨어 간 통신 구조 설계
+- **Data Flow**: RFID Tag 인식 → 미들웨어 처리 → 서버/DB 반영 → 웹 UI 표시로 이어지는 전체 데이터 흐름 관리
+### Engineering Focus
+- 장비 SDK/DLL 연동 (Reader Inventory 기능 등)
+- RFID UID 기반 데이터 구조 설계 (HEX UID / 태그 메모리 분리 처리)
+- 물류 프로세스에 맞춘 서버-DB-리더기 네트워크 아키텍처 구성
+- 하드웨어 이슈(통신 오류, 인식 지연 등)와 소프트웨어 로직 문제를 함께 진단하는 트러블슈팅 경험
+
+---
+
 ## Core Project
 
 ### Server-Driven Digital Twin Automation Simulation (In Progress)
